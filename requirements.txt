@@ -1,0 +1,11 @@
+streamlit
+torch # Or torch==<version> e.g., torch==2.0.1
+torchvision # Or torchvision==<version> e.g., torchvision==0.15.2
+torchaudio # Often needed with torch, include matching version
+supervision # Or supervision==<version>
+opencv-python-headless
+pyyaml
+rfdetr==1.1.0 # Use the specific version you need
+numpy
+Pillow # PIL is part of Pillow
+# Add any other specific dependencies your code might have
